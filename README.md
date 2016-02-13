@@ -1,5 +1,5 @@
 #mr new
-#تمامی پلاگین ها فارسی میباشند
-#Powered By [https://telegram.me/iphonei]
-#لطفا ستاره دهید
-##open surce
+تمامی پلاگین ها فارسی میباشند
+لطفا ستاره دهید
+ #open surce
+Powered By [https://telegram.me/iphonei]
